@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Amit Yadav
-*Software Developer || System Design // Full Stack developer || & DSA Enthusiast || Open-Source Contributor*
+*Software Developer || System Design || Full Stack developer || & DSA Enthusiast || Open-Source Contributor*
 
 Email Me 👉 ✉ *theamityv099@gmail.com* : Open to collaborations, projects, or exciting opportunities! 😊😊
 
